@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3706308
 color:
   saturation: 0.01086568
   brandStrength: 0.4104346
@@ -22,5 +21,6 @@ color:
     - '#A0ACC6'
     - '#4F641F'
   lightness: 0.381233
-layout_spectrum: 0.04260652
+typography_spectrum: 0.3706308
+layout_spectrum: 0.4285714
 name: Schnegg
