@@ -1,0 +1,14 @@
+layout_spectrum: 0.556391
+typography_spectrum: 0.3706308
+color:
+  saturation: 0.01086568
+  lightness: 0.381233
+  brandStrength: 0.4104346
+  brandColors:
+    - '#BA5752'
+    - '#EDD5B1'
+    - '#2C2218'
+    - '#A0ACC6'
+    - '#4F641F'
+  rhythmicContrast: 0.3751361
+name: Schnegg+
