@@ -1,14 +1,26 @@
-layout_spectrum: 0.556391
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3706308
 color:
   saturation: 0.01086568
-  lightness: 0.381233
   brandStrength: 0.4104346
+  rhythmicContrast: 0.3751361
   brandColors:
     - '#BA5752'
     - '#EDD5B1'
     - '#2C2218'
     - '#A0ACC6'
     - '#4F641F'
-  rhythmicContrast: 0.3751361
+  lightness: 0.381233
+layout_spectrum: 0.04260652
 name: Schnegg
